@@ -1,3 +1,4 @@
+package sda.jdbc;
 import java.sql.*;
 
 public class PirmaUzduotis {
